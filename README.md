@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello there !👋
+
+You have stumbled upon the repositories of Atman Satapathy, currently in pursuit of:
+<ul><li>Artifical Intelligence</li><li>Machine Learning</li><li>Data Science</li></ul>
+
+and more .. 
+And has a variety of knowledge under the belt, including but not only, Jva, Python, C, HTML, CSS and SQL .. 
 
 <!--
 **Atman-Satapathy/Atman-Satapathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
