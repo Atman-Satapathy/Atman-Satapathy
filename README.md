@@ -3,7 +3,7 @@
 You have stumbled upon the repositories of Atman Satapathy, currently in pursuit of:
 <ul><li>Artifical Intelligence</li><li>Machine Learning</li><li>Data Science</li></ul>
 
-and more .. 
+and more .. <br>
 And has a variety of knowledge under the belt, including but not only, Jva, Python, C, HTML, CSS and SQL .. 
 
 <!--
